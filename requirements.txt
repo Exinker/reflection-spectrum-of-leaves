@@ -1,0 +1,9 @@
+
+matplotlib
+numpy
+pandas
+tqdm
+
+jupyter
+
+vmk-spectrum
